@@ -14,5 +14,6 @@ public static void displayGreeting(){
 	System.out.println("THIS APP SHARES SALES DATA.");
 	
 	System.out.println("Test 1");
+	System.out.println("Test 2 added from github");
 	}
 }
